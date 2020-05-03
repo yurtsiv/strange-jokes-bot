@@ -1,8 +1,0 @@
-{
-  "name": "jokes-bot",
-  "env": {
-    "token": "@jokes_bot_token",
-    "url": "@jokes_bot_url",
-    "secret_query": "@jokes_bot_secret_query"
-  }
-}
