@@ -1,9 +1,11 @@
-const Telegraf = require('telegraf');
+import Telegraf from 'telegraf';
 
-const regularWords = require('../words/regular.js');
-const apikoWords = require('../words/apiko.js');
+import regularWords from './words/regular';
+import apikoWords from './words/apiko';
 
 const bot = new Telegraf(process.env.BOT_TOKEN);
+
+console.log('Listenting');
 
 const pickRandomElem = arr =>
   arr[Math.floor(Math.random() * arr.length)];
