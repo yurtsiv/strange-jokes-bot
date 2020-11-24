@@ -1,6 +1,8 @@
 # Strange jokes bot
 
-A Telegram bot for generating very strange jokes in Ukrainian (@StrangeJokesBot)
+Bot username: `@StrangeJokesBot`
+
+A Telegram bot for generating very strange jokes in Ukrainian
 
 # Commands
 
@@ -10,7 +12,11 @@ A Telegram bot for generating very strange jokes in Ukrainian (@StrangeJokesBot)
 
 # Running
 
+* `docker pull stepy/strange-jokes-bot`
+* `docker run -d --env-file .env --publish 8002:8080 stepy/strange-jokes-bot`
+
+`.env` file:
+
 ```
-npm install
-BOT_TOKEN="<token>" npm start
+BOT_TOKEN=<token>
 ```
