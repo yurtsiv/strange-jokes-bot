@@ -6,9 +6,11 @@ A Telegram bot for generating very strange jokes in Ukrainian
 
 # Commands
 
-`/regular_joke` - generate a standart (but strange) joke
+`/regular_joke` - a standart (but strange) joke
 
-`/apiko_joke` - generate Apiko-specific joke (sometimes funny, but only for folks from [Apiko](https://apiko.com/))
+`/apiko_joke` - Apiko-specific joke (sometimes funny, but only for folks from [Apiko](https://apiko.com/))
+
+`/polska_joke` - a joke in Polish (interanal) 
 
 # Running
 
