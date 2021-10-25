@@ -8,7 +8,9 @@ export default [
     'Marta',
     'Artsiom',
     'Vadzim',
-    'Lina'
+    'Lina',
+    'Ośmiornica',
+    'Ciapek'
   ],
   [' przychodzi '],
   [
@@ -27,7 +29,12 @@ export default [
     'do swojej zmywarki',
     'do Hanki',
     'do Haliny',
-    'do Ciapka'
+    'do Ciapka',
+    'do ośmiornicy',
+    'do więzienia',
+    'do szpitala',
+    'na cmentarz',
+    'do zoo'
   ],
   [' i mówi: "'],
   [
@@ -41,13 +48,27 @@ export default [
     'checesz kupę?',
     'chodźmy do kina',
     'jak żyjesz, tajny agencie?',
-    'idziemy pić?'
+    'idziemy pić?',
+    'raz na wozie, dwa podwozie',
+    'do nogi',
+    'kocham Cię',
+    'kokokokoko',
+    'nie, nie boję się',
+    'dawaj fartucha',
+    'tak naprawdę jestem rosyjskim szpiegiem',
+    'sierżant Hopps jest sexy',
+    'jesteś sexy',
+    'otwórz cole',
+    'jestem w ciąży'
   ],
   ['", a '],
   [
     'głos z nieba',
     'w odpowiedzi słyszy',
-    'wszyscy na to'
+    'wszyscy na to',
+    'wtem w oddali usłyszeli',
+    'echo odpowiedziało',
+    'na co on/ ona'
   ],
   [': "'],
   [
@@ -61,7 +82,12 @@ export default [
     'idź w dupę',
     'zajebisty pomysł',
     'oczywiście, jak najbardziej',
-    'muszę pilnować zmywarkę'
+    'muszę pilnować zmywarkę',
+    'ty matole',
+    'noooooooooo',
+    'oj tak byczq, +1',
+    'tak jak Pan Jezus powiedział',
+    'hau hau'
   ],
   ['". '],
   [
@@ -69,7 +95,13 @@ export default [
     'Cisza...',
     'Wszyscy poszli do kina.',
     'Marta poszła do domu.',
-    'Wszyscy poszli na planszówki',
-    'A potem wszyscy ujebali sesję'
+    'Wszyscy poszli na planszówki.',
+    'A potem wszyscy ujebali sesję.',
+    'I nie przeżył tego nikt.',
+    'To było ostatni raz kiedy ich widziałem Panie władzo.',
+    'Zmywarka znowu się zepsuła.',
+    'Do Bartka przyjechali teściowie.',
+    'Kacper się spóźnił.',
+    'Ale toaleta była nieczynna.'
   ]
 ];
