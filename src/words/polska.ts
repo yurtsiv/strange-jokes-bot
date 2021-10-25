@@ -9,8 +9,8 @@ export default [
     'Artsiom',
     'Vadzim',
     'Lina',
-	'Ośmiornica',
-	'Ciapek'
+    'Ośmiornica',
+    'Ciapek'
   ],
   [' przychodzi '],
   [
@@ -30,11 +30,11 @@ export default [
     'do Hanki',
     'do Haliny',
     'do Ciapka',
-	'do ośmiornicy',
-	'do więzienia',
-	'do szpitala',
-	'na cmentarz',
-	'do zoo'
+    'do ośmiornicy',
+    'do więzienia',
+    'do szpitala',
+    'na cmentarz',
+    'do zoo'
   ],
   [' i mówi: "'],
   [
@@ -49,26 +49,26 @@ export default [
     'chodźmy do kina',
     'jak żyjesz, tajny agencie?',
     'idziemy pić?',
-	'raz na wozie, dwa podwozie',
-	'do nogi',
-	'kocham Cię',
-	'kokokokoko',
-	'nie, nie boję się',
-	'dawaj fartucha',
-	'tak naprawdę jestem rosyjskim szpiegiem',
-	'sierżant Hopps jest sexy',
-	'jesteś sexy',
-	'otwórz cole',
-	'jestem w ciąży'
+    'raz na wozie, dwa podwozie',
+    'do nogi',
+    'kocham Cię',
+    'kokokokoko',
+    'nie, nie boję się',
+    'dawaj fartucha',
+    'tak naprawdę jestem rosyjskim szpiegiem',
+    'sierżant Hopps jest sexy',
+    'jesteś sexy',
+    'otwórz cole',
+    'jestem w ciąży'
   ],
   ['", a '],
   [
     'głos z nieba',
     'w odpowiedzi słyszy',
     'wszyscy na to',
-	'wtem w oddali usłyszeli',
-	'echo odpowiedziało',
-	'na co on/ ona'
+    'wtem w oddali usłyszeli',
+    'echo odpowiedziało',
+    'na co on/ ona'
   ],
   [': "'],
   [
@@ -83,11 +83,11 @@ export default [
     'zajebisty pomysł',
     'oczywiście, jak najbardziej',
     'muszę pilnować zmywarkę',
-	'ty matole',
-	'noooooooooo',
-	'oj tak byczq, +1',
-	'tak jak Pan Jezus powiedział',
-	'hau hau'
+    'ty matole',
+    'noooooooooo',
+    'oj tak byczq, +1',
+    'tak jak Pan Jezus powiedział',
+    'hau hau'
   ],
   ['". '],
   [
@@ -97,11 +97,11 @@ export default [
     'Marta poszła do domu.',
     'Wszyscy poszli na planszówki.',
     'A potem wszyscy ujebali sesję.',
-	'I nie przeżył tego nikt.',
-	'To było ostatni raz kiedy ich widziałem Panie władzo.',
-	'Zmywarka znowu się zepsuła.',
-	'Do Bartka przyjechali teściowie.',
-	'Kacper się spóźnił.',
-	'Ale toaleta była nieczynna.'
+    'I nie przeżył tego nikt.',
+    'To było ostatni raz kiedy ich widziałem Panie władzo.',
+    'Zmywarka znowu się zepsuła.',
+    'Do Bartka przyjechali teściowie.',
+    'Kacper się spóźnił.',
+    'Ale toaleta była nieczynna.'
   ]
 ];
