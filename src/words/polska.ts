@@ -10,7 +10,7 @@ export default [
     'Vadim',
     'Lina'
   ],
-  ['przychodzi'],
+  [' przychodzi '],
   [
     'do Roberta',
     'do Marty',
@@ -27,7 +27,7 @@ export default [
     'do swojej zmywarki',
     'do Hanki'
   ],
-  ['i mówi: "'],
+  [' i mówi: "'],
   [
     '(nic)',
     'jak tam, mordo?',
@@ -38,7 +38,7 @@ export default [
     'checesz kupę?',
     'chodźmy do kina'
   ],
-  ['", a'],
+  ['", a '],
   [
     'głoś z nieba',
     'w odpowiedź słyszy',
@@ -56,7 +56,7 @@ export default [
     'idź w dupę',
     'zajebisty pomysł'
   ],
-  ['".'],
+  ['". '],
   [
     'Wszyscy milczyli.',
     'Cisza...',

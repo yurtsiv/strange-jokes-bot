@@ -12,7 +12,7 @@ const pickRandomElem = arr =>
   arr[Math.floor(Math.random() * arr.length)];
 
 const generateJoke = (words) =>
-  words.map(pickRandomElem).join(' ');
+  words.map(pickRandomElem).join('');
 
 const sendJokeWith = words => ({ reply }) => reply(generateJoke(words));
 
