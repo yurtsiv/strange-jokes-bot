@@ -7,7 +7,7 @@ export default [
     'Robert',
     'Marta',
     'Artsiom',
-    'Vadim',
+    'Vadzim',
     'Lina'
   ],
   ['przychodzi'],
@@ -16,7 +16,7 @@ export default [
     'do Marty',
     'do Kacpra',
     'do Klaudii',
-    'do Vadima',
+    'do Vadzima',
     'do Liny',
     'do Galerii Dominikańskiej',
     'do Artsioma',
@@ -25,23 +25,28 @@ export default [
     'do Bartka z Martą',
     'do polibudy',
     'do swojej zmywarki',
-    'do Hanki'
+    'do Hanki',
+    'do Haliny',
+    'do Ciapka'
   ],
   ['i mówi: "'],
   [
     '(nic)',
     'jak tam, mordo?',
-    'jak tam twoje ośmiornicy?',
+    'jak tam twoje ośmiornice?',
     'masz ochotę na spacerek?',
     'chodź, jebniemy piwka',
+    'zagrajmy w civkę',
     'chcę kupę',
     'checesz kupę?',
-    'chodźmy do kina'
+    'chodźmy do kina',
+    'jak żyjesz, tajny agencie?',
+    'idziemy pić?'
   ],
   ['", a'],
   [
-    'głoś z nieba',
-    'w odpowiedź słyszy',
+    'głos z nieba',
+    'w odpowiedzi słyszy',
     'wszyscy na to'
   ],
   [': "'],
@@ -54,13 +59,17 @@ export default [
     'jeb się',
     'hoorray!!!',
     'idź w dupę',
-    'zajebisty pomysł'
+    'zajebisty pomysł',
+    'oczywiście, jak najbardziej',
+    'muszę pilnować zmywarkę'
   ],
   ['".'],
   [
-    'Wszyscy milczyli.',
+    'Wszyscy milczeli.',
     'Cisza...',
     'Wszyscy poszli do kina.',
-    'Marta poszła do domu.'
+    'Marta poszła do domu.',
+    'Wszyscy poszli na planszówki',
+    'A potem wszyscy ujebali sesję'
   ]
 ];
